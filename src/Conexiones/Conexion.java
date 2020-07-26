@@ -30,7 +30,7 @@ public class Conexion {
             } catch (Exception e) {
                 System.out.println("Ocurrio un error : "+e.getMessage());
             }
-            System.out.println("La conexión hecha " + "Eduardo olvera");
+            System.out.println("La conexión hecha " + "Kelvin Matamoros");
           return conn;  
     }
   public static void cerrar() throws SQLException {
